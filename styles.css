@@ -16,7 +16,16 @@ body {
   margin: auto;
 
 }
+footer{
+  font-size: 1.2rem;
+  position: absolute;
+  bottom: 2%;
+  width: 100%;
+}
 
+*{
+  overflow: hidden;
+}
 
 .hidden{
   visibility: hidden; 
