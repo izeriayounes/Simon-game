@@ -5,7 +5,7 @@ body {
 #level-title {
   font-family: 'Press Start 2P', cursive;
   margin: 1% 3%;
-  font-size: 2.1rem;
+  font-size: 2rem;
   color: #FEF2BF;
 }
 .container {
@@ -16,7 +16,7 @@ body {
 footer{
   font-size: 1.2rem;
   position: absolute;
-  bottom: 2%;
+  bottom: 1%;
   width: 100%;
 }
 *{
@@ -28,26 +28,13 @@ footer{
 .start-btn{
   font-size: 40px;
   text-align: center;
-  display: inline-block;
-  margin:5px;
-  font-weight: bold;
-  padding: 10px 10px 10px 10px ;
+  padding: 10px;
   background-color: lightgray;
   text-shadow: -1px -1px black, 1px 1px white;
   color: gray;
-  -webkit-border-radius: 7px;
-  -moz-border-radius: 7px;
-  -o-border-radius: 7px;
   border-radius: 7px;
   box-shadow: 0 .2em gray; 
   cursor: pointer;
-
-}
-
-.start-btn:active {
-	box-shadow: none;
-	position: relative;
-	top: .2em;
 }
 
 .btn {
