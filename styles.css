@@ -46,7 +46,7 @@ body {
   overflow: hidden;
   background-color: #f1f1f1;
   position: absolute;
-  width: 100%;
+  width: 20%;
 }
 
 .game-over {
